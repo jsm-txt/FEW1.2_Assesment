@@ -1,0 +1,13 @@
+#input{
+    background: rgb(250, 215, 163);
+    border: 1px;
+    border-radius: 25px;
+    
+}
+#header{
+    color: rgb(181, 4, 4);
+    background-color: rgba(254, 254, 255, 0.76);
+}
+#like{
+    border-top: 1.5px solid;
+}
